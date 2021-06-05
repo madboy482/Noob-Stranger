@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-Stranger&layout=compact&theme=radical)](https://github.com/Noob-Stranger)
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Noob-Stranger&show_icons=true&locale=en&langs_count=15&theme=cyan" alt="Noob-Stranger" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Noob-Stranger&show_icons=true&locale=en&langs_count=15&theme=tokyonight" alt="Noob-Stranger" /></p>
